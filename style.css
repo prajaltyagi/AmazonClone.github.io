@@ -1,0 +1,229 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: white;
+}
+
+.headnav {
+    display: flex;
+    background-color: rgb(1, 1, 24);
+
+}
+
+.nav1,
+.nav2 {
+    display: flex;
+    gap: 20px;
+
+
+}
+
+.nav12,
+.nav15,
+.nav16,
+.nav17 {
+    color: white;
+}
+
+.nav13 {
+    display: flex;
+    border: 10px solid rgb(1, 1, 24);
+}
+
+.search {
+    height: 60px;
+    width: 500px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.simg,
+.cimg {
+    background-color: white;
+}
+
+.country {
+    background-color: black;
+    color: white;
+}
+
+.secondnav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(1, 1, 26, 0.74);
+    height: 50px;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headimg {
+
+    display: flex;
+}
+
+.b1text,
+.b2text,
+.b3text,
+.b4text {
+    text-align: center;
+    color: black;
+}
+
+.boxex1,
+.boxex2 {
+    display: flex;
+}
+
+.b1,
+.b2,
+.b3,
+.b4 {
+    height: 300px;
+    width: 450px;
+    background-color: white;
+}
+
+.b1c1,
+.b1c2,
+.b2c1,
+.b2c2,
+.b3c1,
+.b3c2,
+.b4c1,
+.b4c2 {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: gray;
+}
+
+.frame1,
+.frame3 {
+    justify-content: space-around;
+    display: flex;
+}
+
+.f12 {
+    height: 720px;
+    width: 300px;
+    background-color: white;
+}
+
+.f121 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.sign {
+    background-color: yellow;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border: 1px solid yellow;
+}
+
+.itemsimg {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 100px; */
+}
+
+.items {
+    background-color: white;
+    padding: 5px;
+}
+
+.is,.fb3 {
+    height: 50px;
+    background-color: rgb(201, 7, 71);
+    color: black;
+    border: 1px solid rgb(201, 7, 71);
+    width: 150px;
+}
+.f{
+    height: 40px;
+    background-color: rgb(201, 7, 71);
+    color: black;
+    border: 1px solid rgb(201, 7, 71);
+    width: 150px; 
+}
+.frame3,.o11,.o12,.o21,.o22,.o31,.o32{
+    display: flex;
+    justify-content: space-around;
+}
+.outerbox1,.outerbox2,.outerbox3{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+}
+.f3{
+    background-color: white;
+    height: 50px;
+    width: 90vw;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.signin{
+    width: 200px;
+    height: 30px;
+    color: black;
+    background-color: yellowgreen;
+    border: 1px solid yellowgreen;
+}
+.fot1{
+    background-color: rgba(1, 1, 26, 0.74) ;
+    color: white;
+    text-align: center;
+}
+.fotitems1{
+display: flex;
+justify-content: center;
+background-color: rgba(2, 2, 43, 0.76);
+color: white;
+gap: 90px;
+}
+.fotitems2{
+background-color: rgba(2, 2, 43, 0.76)  ;
+}
+.fi21,.fi22{
+display: flex;
+justify-content: center;
+align-items: center;
+
+color: white;
+gap: 100px;
+}
+.fib212{
+height: 40px;
+width: 150px;
+background-color: rgba(2, 2, 43, 0.76);
+border: 1px solid white;
+color: white;
+}
+.fotitems3{
+background-color: rgba(1, 1, 26, 0.74) ;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
